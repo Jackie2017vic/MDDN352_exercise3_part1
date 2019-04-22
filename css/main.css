@@ -127,7 +127,7 @@ button{
     border-top: solid 1px black;
 }
 
-@media (max-width: 870px) {
+@media (min-width: 870px) {
     .breakout{
         font-size:8em;
     }
